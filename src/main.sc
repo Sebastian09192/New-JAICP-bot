@@ -6,7 +6,7 @@ theme: /
         q!: $regex</start>
         a: Let's start.
 
-    state: Hello
+    state: Hello!
         intent!: /hello
         a: Hello hello
 
